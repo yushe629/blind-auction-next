@@ -120,6 +120,9 @@ export default function Home() {
         <Link href="/bid">
           <div> nftに入札する</div>
         </Link>
+        <Link href="/ws">
+          <div> workspace</div>
+        </Link>
       </div>
     </>
   )
